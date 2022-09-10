@@ -1,6 +1,6 @@
-polyfuzz==0.4.0
-numpy==1.19.5
+numpy==1.20.0
 pandas==1.1.4
+polyfuzz==0.4.0
 scikit_learn==1.1.2
 streamlit==1.12.2
  
