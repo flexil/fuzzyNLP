@@ -7,3 +7,6 @@ Clone the github repository<br>
 Run on your terminal in the project directory: **streamlit run app.py** to launch the web application  in your local host<br>
 Follow the instruction to upload the csv and to download the clustered csv file.
 
+To test the web application running on streamlit share server please click on the link below:
+
+**https://flexil-fuzzynlp-app-qco47l.streamlitapp.com/**
